@@ -31,7 +31,7 @@ Execute the programs and publish them.
 ```
 <html>
     <head>
-        <title> Finder</title>
+        <title>Map Finder</title>
     </head>
     <body bgcolor="orange">
         <center>
