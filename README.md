@@ -31,7 +31,7 @@ Execute the programs and publish them.
 ```
 <html>
     <head>
-        <title img src="C:\Users\acer\Downloads\map.png">Map Finder</title>
+        <title>Map Finder</title>
     </head>
     <body bgcolor="orange">
         <center>
